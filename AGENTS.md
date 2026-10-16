@@ -8,3 +8,5 @@
 > Commits you push to the connected branch sync back to Lovable and show up in
 > the editor, so keep the branch in a working state.
 <!-- LOVABLE:END -->
+
+The Paresh Stationery Mart site presents its long-form sections on the existing TanStack `/` route, with reusable shop copy in `src/data/shop.ts`, so its one-page navigation and business details stay consistent.
