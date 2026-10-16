@@ -1,0 +1,1 @@
+- [ ] Build and verify the Paresh Stationery Mart single-page website from the uploaded brief.
